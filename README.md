@@ -25,7 +25,7 @@ Se crea el proyecto sobre Gradle, es una herramienta de automatizacion de la con
 Para correr el proyecto se necesita Java JDK 1.8 y Gradle preferiblemente con la version 6.8.1
 
 #Recomendaciones
-Tener el chrome driver actualizado con la version del navegador chrome
+Tener el chrome driver actualizado con la version del navegador chrome que se este utilizando al momento de la ejecución.
 
 #Comando gradle para ejecutar desde consola
 #limpiar, ejecutar, agregar reporte
