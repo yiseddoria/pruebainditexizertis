@@ -1,4 +1,0 @@
-co/com/proyectobase/screenplay/runners/BuscarEnGoogleRunner.java
- co.com.proyectobase.screenplay.runners.BuscarEnGoogleRunner
-co/com/proyectobase/screenplay/stepdefinitions/BuscarEnGoogleStepDefinitions.java
- co.com.proyectobase.screenplay.stepdefinitions.BuscarEnGoogleStepDefinitions
